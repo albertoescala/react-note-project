@@ -1,0 +1,15 @@
+h4{
+    padding: 10px;
+    margin: 0 70px;
+}
+.ul{
+    text-align: center;
+    width: 100%;
+    list-style: none;
+    padding-left: 0;
+}
+.li{
+    padding: 10px;
+    margin: 0 70px;
+    border-bottom: 1px solid #a9a9a9;
+}
